@@ -1,28 +1,24 @@
-# Saving & Loading Using PlayerPrefs
+# UI, XML, Localization, Scene Load & Build .exe
 
-In this section, I dived deep into the intricacies of saving and loading game states using Unity’s PlayerPrefs. This critical functionality ensures a seamless user experience by preserving player progress and settings between game sessions.
+Dive into the intricate world of game interface and localization with Unity. This section focuses on implementing user interfaces, managing XML data for localization, and the processes involved in loading scenes and building executables.
 
-[Gameplay Video] https://www.linkedin.com/feed/update/urn:li:activity:7251982893680324611/
+[Gameplay Video] https://www.linkedin.com/feed/update/urn:li:activity:7254179374592061440/
 
 ## Key Topics Covered:
 
-- **Introduction to Saving & Loading**: An overview of the PlayerPrefs system in Unity for managing game state.
+- **Main Menu Setup**: Designing and implementing the main menu interface.
 
-- **Setting Up Project & Player Assets**: Organizing and preparing the essential assets and settings for gameplay.
+- **Button OnClicked Logics**: Programming interactive buttons within the UI.
 
-- **Player Logics Implementation**: Coding the core logic for player actions and interactions.
+- **XML Data, Localization Data & Localization Files Setup**: Structuring XML files and setting up localization data.
 
-- **Enemy Setup and Logic**: Establishing enemy characters and their behaviors in the game.
+- **Loading XML Files in Code**: Techniques for integrating XML data into Unity.
 
-- **Animation and Movement Logic**: Enhancing the fluidity and responsiveness of animations and movements.
+- **Reading Localization Data in Code**: Accessing and utilizing localization information dynamically.
 
-- **State and Weak Point Management**: Implementing logic for enemy states and vulnerabilities.
+- **Setting up Text Fields for Localization**: Configuring UI text elements for multiple languages.
 
-- **Collectibles**: Adding game elements that players can collect.
-  
-- **Singleton Pattern for Game Management**: Utilizing the singleton pattern for efficient game management across scenes.
-  
-- **Saving & Loading Game Elements**: Detailed techniques for persisting various game elements like coins and zombies.
+- **Building .exe, Loading Scenes & Quitting**: Procedures for compiling the game and managing scene transitions.
 
 
-![Screenshot 2024-10-15 224134](https://github.com/user-attachments/assets/d2f0ef60-9d08-4a63-9a7c-b7d18b00df29)
+![Screenshot 2024-10-22 001619](https://github.com/user-attachments/assets/9d0a284f-bfcb-4460-adaa-9c7172ee76ff)
