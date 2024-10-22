@@ -1,0 +1,21 @@
+<Localization>
+    <Entry>
+        <Key>Title</Key>
+        <Value>People Of The Stars</Value>
+    </Entry>
+    
+    <Entry>
+        <Key>Start Button</Key>
+        <Value>> Start</Value>
+    </Entry>
+    
+    <Entry>
+        <Key>Options Button</Key>
+        <Value>> Options</Value>
+    </Entry>
+    
+    <Entry>
+        <Key>Exit Button</Key>
+        <Value>> Exit</Value>
+    </Entry>
+</Localization>

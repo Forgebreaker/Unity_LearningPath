@@ -1,0 +1,21 @@
+<Localization>
+    <Entry>
+        <Key>Title</Key>
+        <Value>Les Gens Des Étoiles</Value>
+    </Entry>
+    
+    <Entry>
+        <Key>Start Button</Key>
+		<Value>> Commencer</Value>
+    </Entry>
+    
+    <Entry>
+        <Key>Options Button</Key>
+        <Value>> Choix</Value>
+    </Entry>
+    
+    <Entry>
+        <Key>Exit Button</Key>
+        <Value>> Sortie</Value>
+    </Entry>
+</Localization>
